@@ -14,7 +14,7 @@ This website allows parents to:
 - Build trust before enrolling their children
 
 ## Live Website URL
-[INSERT YOUR WIX URL HERE]
+https://germainekenfack75.wixsite.com/little-stars-daycare
 
 ## Site Structure
 |
@@ -49,7 +49,12 @@ This website allows parents to:
 |
 
 ## Screenshots
-(See uploaded images in this repository)
+<img width="1915" height="987" alt="Screenshot 2026-01-28 at 9 08 13 PM" src="https://github.com/user-attachments/assets/60d7233c-9f9e-49bb-9562-132d0f5b570e" />
+<img width="1886" height="981" alt="Screenshot 2026-01-28 at 9 14 38 PM" src="https://github.com/user-attachments/assets/9660a112-0f02-4bbc-a44f-45d9b07e73a9" />
+<img width="1903" height="1002" alt="Screenshot 2026-01-28 at 9 08 33 PM" src="https://github.com/user-attachments/assets/774e5a19-3693-44d3-99bd-da76832256fa" />
+<img width="1887" height="958" alt="Screenshot 2026-01-28 at 9 08 50 PM" src="https://github.com/user-attachments/assets/b9d2a223-a35c-4364-bd28-5f3a5c547cb2" />
+
+
 
 ## Reflection
 
